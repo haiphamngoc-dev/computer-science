@@ -37,3 +37,7 @@ Cuốn sách kinh điển _Modern Operating Systems_ (Các hệ điều hành hi
 Mình hy vọng bạn sẽ thích series này và thấy nó có ích. Nếu bạn có bất kỳ phản hồi hay góp ý nào, mình rất muốn được lắng nghe từ bạn!
 
 Chúc bạn có một chuyến hành trình học tập thật vui vẻ!
+
+---
+
+[Tiếp theo: Chương 1: Lý thuyết tính toán (Theory of computation) &rarr;](./01_theory_of_computation.md)
