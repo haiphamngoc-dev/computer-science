@@ -18,7 +18,7 @@ Mục tiêu của series này là cung cấp một tài liệu học tập Khoa 
 - Độ phức tạp tính toán (Complexity Theory)
 - Kết luận & Tài liệu đọc thêm (Conclusion & Additional Reading)
 
-### Chương 2: Cấu trúc dữ liệu và giải thuật (Data Structures and Algorithms)
+### [Chương 2: Cấu trúc dữ liệu và giải thuật (Data Structures and Algorithms)](./02_data_structures_and_algorithms.md)
 
 - Giới thiệu chung (Introduction)
 - Cấu trúc dữ liệu (Data Structures)
