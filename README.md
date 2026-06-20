@@ -10,7 +10,7 @@ Mục tiêu của series này là cung cấp một tài liệu học tập Khoa 
 
 ### [Chương 0: Giới thiệu về Khoa học Máy tính (Introduction to Computer Science)](./00_Introduction.md)
 
-### Chương 1: Lý thuyết tính toán (Theory of Computation)
+### [Chương 1: Lý thuyết tính toán (Theory of Computation)](./01_theory_of_computation.md)
 
 - Giới thiệu chung (Introduction)
 - Lý thuyết máy tự động (Automata Theory)
