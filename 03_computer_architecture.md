@@ -531,4 +531,4 @@ Trong chương này, chúng ta đã đi xuyên qua các lớp kiến trúc của
 
 ---
 
-[&larr; Quay lại: Chương 2: Cấu trúc dữ liệu và giải thuật (Data Structures and Algorithms)](./02_data_structures_and_algorithms.md)
+[&larr; Quay lại: Chương 2: Cấu trúc dữ liệu và giải thuật (Data Structures and Algorithms)](./02_data_structures_and_algorithms.md) | [Tiếp theo: Chương 4: Hệ điều hành (Operating systems) &rarr;](./04_operating_systems.md)

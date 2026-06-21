@@ -36,7 +36,7 @@ Mục tiêu của series này là cung cấp một tài liệu học tập Khoa 
 - Tối ưu hóa hiệu năng (Performance Optimization)
 - Kết luận & Tài liệu đọc thêm (Conclusion & Additional Reading)
 
-### Chương 4: Hệ điều hành (Operating Systems)
+### [Chương 4: Hệ điều hành (Operating Systems)](./04_operating_systems.md)
 
 - Giới thiệu chung (Introduction)
 - Các hệ điều hành phổ biến (Popular Operating Systems)
