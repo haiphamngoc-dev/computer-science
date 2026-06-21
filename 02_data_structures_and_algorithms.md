@@ -539,4 +539,3 @@ Cả hai thuật toán này đều có độ phức tạp thời gian là **$O(V
 ---
 
 [&larr; Quay lại: Chương 1: Lý thuyết tính toán (Theory of computation)](./01_theory_of_computation.md) | [Tiếp theo: Chương 3: Kiến trúc máy tính (Computer architecture) &rarr;](./03_computer_architecture.md)
-
