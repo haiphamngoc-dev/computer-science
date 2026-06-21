@@ -26,7 +26,7 @@ Mục tiêu của series này là cung cấp một tài liệu học tập Khoa 
 - Giải thuật (Algorithms)
 - Kết luận & Tài liệu đọc thêm (Conclusion & Additional Reading)
 
-### Chương 3: Kiến trúc máy tính (Computer architecture)
+### [Chương 3: Kiến trúc máy tính (Computer architecture)](./03_computer_architecture.md)
 
 - Giới thiệu chung (Introduction)
 - Biểu diễn thông tin (Information Representation)
