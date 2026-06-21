@@ -49,7 +49,7 @@ Mục tiêu của series này là cung cấp một tài liệu học tập Khoa 
 - Cô lập và ảo hóa (Isolation and virtualization)
 - Kết luận & Tài liệu đọc thêm (Conclusion & Additional Reading)
 
-### Chương 5: Mạng máy tính (Computer Networks)
+### [Chương 5: Mạng máy tính (Computer Networks)](./05_networking.md)
 
 - Giới thiệu chung (Introduction)
 - Giao thức mạng (Network Protocols)

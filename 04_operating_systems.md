@@ -475,4 +475,4 @@ Chúng ta đã đạt tới một cột mốc vô cùng quan trọng: Qua 4 chư
 
 ---
 
-[&larr; Quay lại: Chương 3: Kiến trúc máy tính (Computer architecture)](./03_computer_architecture.md)
+[&larr; Quay lại: Chương 3: Kiến trúc máy tính (Computer architecture)](./03_computer_architecture.md) | [Tiếp theo: Chương 5: Mạng máy tính (Networking) &rarr;](./05_networking.md)
