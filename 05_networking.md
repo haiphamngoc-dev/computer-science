@@ -638,4 +638,4 @@ Chúng ta đã có một bức tranh hoàn hảo về cách thông tin được 
 
 ---
 
-[&larr; Quay lại: Chương 4: Hệ điều hành (Operating Systems)](./04_operating_systems.md)
+[&larr; Quay lại: Chương 4: Hệ điều hành (Operating Systems)](./04_operating_systems.md) | [Tiếp theo: Chương 6: Lập trình đồng thời (Concurrent programming) &rarr;](./06_concurrent_programming.md)

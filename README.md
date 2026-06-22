@@ -58,7 +58,7 @@ Mục tiêu của series này là cung cấp một tài liệu học tập Khoa 
 - Tầng ứng dụng (Application Layer)
 - Kết luận & Tài liệu đọc thêm (Conclusion & Additional Reading)
 
-### Chương 6: Lập trình đồng thời (Concurrent Programming)
+### [Chương 6: Lập trình đồng thời (Concurrent Programming)](./06_concurrent_programming.md)
 
 - Giới thiệu chung (Introduction)
 - Đồng thời, song song và tính xác định (Concurrency, Parallelism, and Determinism)
