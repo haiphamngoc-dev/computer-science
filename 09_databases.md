@@ -451,4 +451,4 @@ Cây B-tree là cấu trúc dữ liệu nền tảng cho việc lưu trữ, giú
 
 ---
 
-[&larr; Quay lại: Chương 8: Ngôn ngữ lập trình (Programming languages)](./08_programming_languages.md) | [Tiếp theo: Chương 10: Trình biên dịch (Compiler) &rarr;](./10_compiler.md)
+[&larr; Quay lại: Chương 8: Ngôn ngữ lập trình (Programming languages)](./08_programming_languages.md) | [Tiếp theo: Chương 10: Trình biên dịch (Compiler) &rarr;](./10_compilers.md)

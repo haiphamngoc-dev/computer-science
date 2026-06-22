@@ -100,7 +100,7 @@ Mục tiêu của series này là cung cấp một tài liệu học tập Khoa 
 - Không chỉ có cơ sở dữ liệu quan hệ (Beyond relational databases)
 - Kết luận & Tài liệu đọc thêm (Conclusion & Additional Reading)
 
-### Chương 10: Trình biên dịch (Compiler)
+### [Chương 10: Trình biên dịch (Compiler)](./10_compilers.md)
 
 - Giới thiệu chung (Introduction)
 - Biên dịch và Thông dịch (Compilation and Interpretation)
