@@ -112,7 +112,7 @@ Mục tiêu của series này là cung cấp một tài liệu học tập Khoa 
 - Tin tưởng vào ai? (Who to trust?)
 - Kết luận & Tài liệu đọc thêm (Conclusion & Additional Reading)
 
-### Chương 11: Học máy (Machine Learning)
+### [Chương 11: Học máy (Machine Learning)](./11_machine_learning.md)
 
 - Giới thiệu chung (Introduction)
 - Học máy là gì? (What is Machine Learning?)
