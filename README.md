@@ -81,7 +81,7 @@ Mục tiêu của series này là cung cấp một tài liệu học tập Khoa 
 - Thiết kế chịu lỗi (Designing for fault tolerance)
 - Kết luận & Tài liệu đọc thêm (Conclusion & Additional Reading)
 
-### Chương 8: Ngôn ngữ lập trình (Programming languages)
+### [Chương 8: Ngôn ngữ lập trình (Programming languages)](./08_programming_languages.md)
 
 - Giới thiệu chung (Introduction)
 - Định nghĩa một ngôn ngữ lập trình (Defining a programming language)
