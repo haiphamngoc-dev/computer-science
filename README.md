@@ -122,7 +122,7 @@ Mục tiêu của series này là cung cấp một tài liệu học tập Khoa 
 - Học máy trong thực tế (Machine Learning in Practice)
 - Kết luận & Tài liệu đọc thêm (Conclusion & Additional Reading)
 
-### Chương 12: Học sâu (Deep Learning)
+### [Chương 12: Học sâu (Deep Learning)](./12_deep_learning.md)
 
 - Giới thiệu chung (Introduction)
 - Từ Học máy truyền thống đến Học sâu (From classical Machine Learning to Deep Learning)
