@@ -90,7 +90,7 @@ Mục tiêu của series này là cung cấp một tài liệu học tập Khoa 
 - Hệ thống kiểu dữ liệu (Type systems)
 - Kết luận & Tài liệu đọc thêm (Conclusion & Additional Reading)
 
-### Chương 9: Cơ sở dữ liệu (Databases)
+### [Chương 9: Cơ sở dữ liệu (Databases)](./09_databases.md)
 
 - Giới thiệu chung (Introduction)
 - Hệ cơ sở dữ liệu cung cấp những gì? (What does a database system provide?)
