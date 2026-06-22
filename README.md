@@ -68,7 +68,7 @@ Mục tiêu của series này là cung cấp một tài liệu học tập Khoa 
 - Quản lý tác vụ đồng thời (Managing concurrent work)
 - Kết luận & Tài liệu đọc thêm (Conclusion & Additional Reading)
 
-### Chương 7: Hệ thống phân tán (Distributed Systems)
+### [Chương 7: Hệ thống phân tán (Distributed Systems)](./07_distributed_systems.md)
 
 - Giới thiệu chung (Introduction)
 - Tại sao cần hệ thống phân tán? (Why we need distributed systems?)
