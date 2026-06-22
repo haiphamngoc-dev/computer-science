@@ -133,7 +133,7 @@ Mục tiêu của series này là cung cấp một tài liệu học tập Khoa 
 - Học sâu trong thực tế (Deep Learning in Practice)
 - Kết luận & Tài liệu đọc thêm (Conclusion & Additional Reading)
 
-### Chương 13: Mô hình ngôn ngữ lớn và AI (Large Language Models and AI)
+### [Chương 13: Mô hình ngôn ngữ lớn và AI (Large Language Models and AI)](./13_large_language_models_and_ai.md)
 
 - Giới thiệu chung (Introduction)
 - Lịch sử tóm tắt của AI hiện đại (A brief history of modern AI)
